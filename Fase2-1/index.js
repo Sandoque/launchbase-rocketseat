@@ -4,7 +4,7 @@
 
 const { type } = require("os")
 
-const Aluno01 = 'Antônio'
+const Aluno01 = 'Antônio carlos'
 const Aluno02 = "Eduardo"
 const Aluno03 = "Filano"
 const notaAluno01 = 9.8
